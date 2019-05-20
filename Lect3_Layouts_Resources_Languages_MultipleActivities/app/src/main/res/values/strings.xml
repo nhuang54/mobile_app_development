@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lect3_Layouts_Resources_Languages_MultipleActivities</string>
+    <string name="i_love_pizza">I love pizza.</string>
+    <string name="i_do_not_like_ham">I do not like ham</string>
+</resources>

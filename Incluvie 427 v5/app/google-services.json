@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "264436344306",
+    "firebase_url": "https://incluvie-3c5e8.firebaseio.com",
+    "project_id": "incluvie-3c5e8",
+    "storage_bucket": "incluvie-3c5e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264436344306:android:92506ddf4e0a642c",
+        "android_client_info": {
+          "package_name": "com.example.incluvie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264436344306-3n2cuf5vboqkbsg4hvq9u2meqmehitjl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.incluvie",
+            "certificate_hash": "0e6fe91d1806411907096d20165d2203415d0e8a"
+          }
+        },
+        {
+          "client_id": "264436344306-p41hekju9qsl1g988tagdjoc2c7u3bdr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.incluvie",
+            "certificate_hash": "309dad193e49530068c7a1ca88f8091db245b13b"
+          }
+        },
+        {
+          "client_id": "264436344306-vg9bvng0vs0esdcbksknmhb4i13sue3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBry-SCl_39BrHTIrzfyrtUvY3nMg1o3K4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264436344306-vg9bvng0vs0esdcbksknmhb4i13sue3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

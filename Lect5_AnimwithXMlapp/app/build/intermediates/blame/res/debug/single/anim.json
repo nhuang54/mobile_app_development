@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\together.xml",
+        "source": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\src\\main\\res\\anim\\together.xml"
+    },
+    {
+        "merged": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\sequential.xml",
+        "source": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\src\\main\\res\\anim\\sequential.xml"
+    },
+    {
+        "merged": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bounce.xml",
+        "source": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\src\\main\\res\\anim\\bounce.xml"
+    },
+    {
+        "merged": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_up.xml",
+        "source": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\src\\main\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_in.xml",
+        "source": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\src\\main\\res\\anim\\zoom_in.xml"
+    },
+    {
+        "merged": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\wav_scale2.xml",
+        "source": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\src\\main\\res\\anim\\wav_scale2.xml"
+    },
+    {
+        "merged": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\flip.xml",
+        "source": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\src\\main\\res\\anim\\flip.xml"
+    },
+    {
+        "merged": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_out.xml",
+        "source": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\src\\main\\res\\anim\\zoom_out.xml"
+    },
+    {
+        "merged": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\blink.xml",
+        "source": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\src\\main\\res\\anim\\blink.xml"
+    },
+    {
+        "merged": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move.xml",
+        "source": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\src\\main\\res\\anim\\move.xml"
+    },
+    {
+        "merged": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_down.xml",
+        "source": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\src\\main\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate.xml",
+        "source": "C:\\Transfer\\Dropbox\\AndroidStudio\\Core\\Lect5_AnimwithXMlapp\\app\\src\\main\\res\\anim\\rotate.xml"
+    }
+]

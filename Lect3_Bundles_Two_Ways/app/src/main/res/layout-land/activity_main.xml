@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/onion_rings"
+        android:id="@+id/cbOnionRings"
+        android:checked="false"
+        android:onClick="onCBClick"
+        android:layout_centerHorizontal="true" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hamburger"
+        android:id="@+id/cbHamburger"
+        android:layout_marginStart="59dp"
+        android:checked="false"
+        android:onClick="onCBClick"
+        android:layout_alignTop="@+id/cbOnionRings"
+        android:layout_toEndOf="@+id/cbOnionRings" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/french_fries"
+        android:id="@+id/checkBox"
+        android:checked="false"
+        android:onClick="onCBClick"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginStart="43dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Next >>"
+        android:id="@+id/button3"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="27dp"
+        android:layout_marginBottom="64dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Total: "
+        android:id="@+id/textView9"
+        android:linksClickable="false"
+        android:layout_centerVertical="true"
+        android:layout_toStartOf="@+id/button3"
+        android:layout_marginEnd="17dp" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:src="@android:drawable/stat_sys_phone_call"
+        android:layout_above="@+id/textView9"
+        android:layout_alignEnd="@+id/checkBox"
+        android:layout_marginEnd="34dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Button"
+        android:id="@+id/button4"
+        android:layout_above="@+id/imageView"
+        android:layout_alignEnd="@+id/checkBox" />
+
+</RelativeLayout>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "209551785163",
+    "project_id": "winged-bliss-199717"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209551785163:android:b0547154dab50474",
+        "android_client_info": {
+          "package_name": "com.example.oauth_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209551785163-2s5rfvag3u0go765qoenjb0u7e26qsti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.oauth_login",
+            "certificate_hash": "309dad193e49530068c7a1ca88f8091db245b13b"
+          }
+        },
+        {
+          "client_id": "209551785163-qav1c5vn5j3cn2cn4tup6179um2q2bhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgJJbvqthdwKfQyHaC2Muxf4MhgwVgKl8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

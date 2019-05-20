@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">seekTemp</string>
+    <string name="Celsius">Celsius</string>
+    <string name="Fahrenheit">Fahrenheit</string>
+</resources>

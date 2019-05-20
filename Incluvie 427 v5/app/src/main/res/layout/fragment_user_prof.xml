@@ -1,0 +1,131 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:paddingTop="10dp"
+        android:text="Your profile:"
+        android:textAlignment="center"
+        android:textSize="30sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="12"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:paddingLeft="10dp"
+                android:text="Name:"
+                android:textAlignment="viewStart"
+                android:textSize="25sp" />
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:paddingLeft="10dp"
+                android:text="Email:"
+                android:textAlignment="viewStart"
+                android:textSize="25sp" />
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:paddingLeft="10dp"
+                android:text="Date of Birth:"
+                android:textAlignment="viewStart"
+                android:textSize="25sp" />
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:paddingLeft="10dp"
+                android:text="Ethnicity:"
+                android:textAlignment="viewStart"
+                android:textSize="25sp" />
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:paddingLeft="10dp"
+                android:text="Gender:"
+                android:textAlignment="viewStart"
+                android:textSize="25sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:orientation="vertical">
+
+            <EditText
+                android:id="@+id/editName"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:ems="10"
+                android:enabled="false"
+                android:focusable="false"
+                android:textAlignment="textStart" />
+
+            <EditText
+                android:id="@+id/editEmail"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:ems="10"
+                android:enabled="false"
+                android:focusable="false"
+                android:inputType="textEmailAddress|textEmailSubject"
+                android:textAlignment="textStart" />
+
+            <EditText
+                android:id="@+id/editBday"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:ems="10"
+                android:enabled="false"
+                android:focusable="false"
+                android:inputType="date"
+                android:textAlignment="textStart" />
+
+            <EditText
+                android:id="@+id/editEthnicity"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:ems="10"
+                android:enabled="false"
+                android:focusable="false"
+                android:inputType="textPersonName"
+                android:textAlignment="textStart" />
+
+            <EditText
+                android:id="@+id/editGender"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:ems="10"
+                android:enabled="false"
+                android:focusable="false"
+                android:inputType="textPersonName"
+                android:textAlignment="textStart" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lect3_Bundles_Two_Ways</string>
+    <string name="french_fries">Papas Fritas</string>
+    <string name="onion_rings">Circulos De Cebolla</string>
+    <string name="hamburger">Hamburguesa</string>
+</resources>

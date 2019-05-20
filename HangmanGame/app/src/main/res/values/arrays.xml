@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fruits">
+        <item>APPLE</item>
+        <item>STRAWBERRY</item>
+        <item>ORANGE</item>
+        <item>GRAPE</item>
+        <item>BLUEBERRY</item>
+        <item>PEACH</item>
+        <item>TOMATO</item>
+        <item>BANANA</item>
+        <item>GRAPEFRUIT</item>
+        <item>WATERMELON</item>
+    </string-array>
+
+    <string-array name="animals">
+        <item>GIRAFFE</item>
+        <item>CHEETAH</item>
+        <item>KILLERWHALE</item>
+        <item>LION</item>
+        <item>ELEPHANT</item>
+        <item>KANGAROO</item>
+        <item>PENGUIN</item>
+        <item>ZIBRA</item>
+        <item>GAZELLE</item>
+        <item>PYTHON</item>
+    </string-array>
+
+</resources>

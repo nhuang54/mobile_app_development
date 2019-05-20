@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/mnu_zero"
+        android:title="@string/menu0"
+        android:icon ="@drawable/ic_local_florist_black_24dp"
+        app:showAsAction="ifRoom">
+    </item>
+
+
+    <item
+        android:id="@+id/mnu_one"
+        android:icon="@drawable/minispocksbrain_24x24"
+        android:title="@string/beam_me_up"
+        app:showAsAction="ifRoom"></item>
+
+
+    <item
+        android:id="@+id/mnu_two"
+        android:icon="@drawable/ic_card_giftcard_black_24dp"
+        android:title="@string/nuclear_wessels"
+        app:showAsAction="ifRoom"></item>
+    <item
+        android:id="@+id/mnu_three"
+        android:icon="@drawable/ic_card_giftcard_black_24dp"
+        android:title="@string/phasers_on_stun"
+        app:showAsAction="ifRoom"></item>
+    <item
+        android:id="@+id/mnu_four"
+        android:icon="@drawable/ic_card_giftcard_black_24dp"
+        android:title="@string/live_long_and_prosper"
+        app:showAsAction="ifRoom"></item>
+    <item
+        android:id="@+id/mnu_five"
+        android:icon="@drawable/ic_card_giftcard_black_24dp"
+        android:title="@string/kahn"
+        app:showAsAction="ifRoom"></item>
+
+
+</menu>

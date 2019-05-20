@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lect3_Bundles_Two_Ways</string>
+    <string name="french_fries">French Fries</string>
+    <string name="onion_rings">Onion Rings</string>
+    <string name="hamburger">Hamburger</string>
+
+</resources>

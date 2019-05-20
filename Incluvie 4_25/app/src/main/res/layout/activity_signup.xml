@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/SignUp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:text="Sign up"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/SignUp"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="30dp"
+        android:text="Name"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/Email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignStart="@+id/name"
+        android:layout_below="@+id/name"
+        android:layout_marginStart="31dp"
+        android:layout_marginTop="30dp"
+        android:text="Email"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/Password"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignStart="@+id/Email"
+        android:layout_below="@+id/Email"
+        android:layout_marginStart="31dp"
+        android:layout_marginTop="30dp"
+        android:text="Password"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/Birthdate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/Password"
+        android:layout_below="@+id/Password"
+
+        android:layout_marginTop="30dp"
+        android:text="Birthdate"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/Ethnicity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignStart="@+id/Birthdate"
+        android:layout_below="@+id/Birthdate"
+        android:layout_marginStart="31dp"
+        android:layout_marginTop="30dp"
+        android:text="Ethnicity"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/Gender"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/Ethnicity"
+        android:layout_below="@+id/Ethnicity"
+        android:layout_marginTop="30dp"
+        android:text="Gender"
+        android:textSize="16sp" />
+
+    <EditText
+        android:id="@+id/editEmail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/Email"
+        android:layout_centerHorizontal="true"
+        android:ems="10"
+        android:hint="email@address.com"
+        android:inputType="textEmailAddress"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textSize="12sp" />
+
+    <EditText
+        android:id="@+id/editPwd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/editEmail"
+        android:layout_alignTop="@+id/Password"
+        android:ems="10"
+        android:hint="password"
+        android:inputType="textPassword"
+        android:textAlignment="center"
+        android:textSize="12sp" />
+
+    <EditText
+        android:id="@+id/editBday"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/editPwd"
+        android:layout_alignTop="@+id/Birthdate"
+        android:ems="10"
+        android:hint="mm/dd/yyyy"
+        android:inputType="date"
+        android:textAlignment="center"
+        android:textSize="12sp" />
+
+    <EditText
+        android:id="@+id/editName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/editEmail"
+        android:layout_alignTop="@+id/name"
+        android:ems="10"
+        android:hint="Jane Doe"
+        android:inputType="textPersonName"
+        android:textAlignment="center"
+        android:textSize="12sp" />
+
+    <EditText
+        android:id="@+id/editEthnicity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/editBday"
+        android:layout_alignTop="@+id/Ethnicity"
+        android:ems="10"
+        android:hint="ethnicity"
+        android:inputType="textPersonName"
+        android:textAlignment="center"
+        android:textSize="12sp" />
+
+    <EditText
+        android:id="@+id/editGender"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/editEthnicity"
+        android:layout_alignTop="@+id/Gender"
+        android:ems="10"
+        android:hint="gender"
+        android:inputType="textPersonName"
+        android:textAlignment="center"
+        android:textSize="12sp" />
+
+</RelativeLayout>
